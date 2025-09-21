@@ -2,9 +2,9 @@
 
 ## About Me  
 
-🎓 Master’s student in Software Engineering @ UNamur
-💡 Passion for innovation integration
-📸 Photography lover
+🎓 **Master’s student in Software Engineering @ UNamur**  
+💡 **Passion for innovation integration**  
+📸 **Photography lover**  
 
 ## Featured Project  
 
